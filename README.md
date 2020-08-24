@@ -9,3 +9,5 @@ EmployeeSQL contains important files for review of sql-challenge assignement.
 3. config.py file contains credentials for DB login.  This has been added to the .gitignore to ensure security of credentials. 
 
 4. schema_ERD.jpg image included to show the ERD created using GenMyModel. 
+
+5. sql_bonus.ipynb file contains the jupyter notebook for the bonus portion of the homework assignment. 
