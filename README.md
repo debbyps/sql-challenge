@@ -7,3 +7,5 @@ EmployeeSQL contains important files for review of sql-challenge assignement.
 2. Data folder contains supplemental csv's used to populate database. 
 
 3. config.py file contains credentials for DB login.  This has been added to the .gitignore to ensure security of credentials. 
+
+4. schema_ERD.jpg image included to show the ERD created using GenMyModel. 
